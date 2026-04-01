@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Gekko Lactic Excretion"
+	"version"	"1"
+	"up_date"	"Mar 2026"
+	"author_name"	"NachinBombin"
+	"info"		"Lactic acid excretion visual and sound system for the Gekko NPC. Stripped-down pee stream, splash particles, and audio. No SWEP, no zipper logic."
+	"override"	"0"
+}
